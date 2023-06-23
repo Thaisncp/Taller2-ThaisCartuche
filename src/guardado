@@ -1,0 +1,12 @@
+<div className="wrapper">
+            <div className = "d-flex flex-column">
+                <div className="content">
+                    <Header/>
+                    {/**De aqu'i a abajo el cuerpo*/}
+                    <div className='content-fluid'>
+                        
+                    </div>
+                </div>
+            </div>
+            <Footer/>
+        </div>
